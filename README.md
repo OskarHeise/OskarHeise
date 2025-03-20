@@ -18,16 +18,19 @@ I enjoy working across various programming languages and technologies, with expe
 
 ---
 
-### 🎯 Projects
+### 🎯 Some of my Projects
 
 #### [local-mail-client](https://github.com/OskarHeise/local-mail-client)
 A complete email system implementation featuring a JavaFX-based email client and server with socket communication, including real-time updates, multi-threading, and persistent storage.
 
-#### [algorithms-and-data-structures](https://github.com/OskarHeise/algorithms-and-data-structures)
-University coursework implementing various algorithms and data structures.
+#### [wiki-tok](https://github.com/OskarHeise/wiki-tok)
+Simple webpage that provides an infinite scroll experience for random Wikipedia articles.
+
+#### [text-to-pdf](https://github.com/OskarHeise/text-to-pdf)
+A simple Python script that converts plain text to PDF using Google's AI API.
 
 #### [chef-shifts-management-app](https://github.com/OskarHeise/chef-shifts-management-app)
-Software application project developed for a university course.
+Project for managing kitchen tasks and shifts, including design, business logic, and validation tests.
 
 #### [radio-unito-design](https://github.com/OskarHeise/radio-unito-design)
 UI Research and Design Project for university radio platform.
