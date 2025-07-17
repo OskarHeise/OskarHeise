@@ -26,8 +26,11 @@ A complete email system implementation featuring a JavaFX-based email client and
 #### [wiki-tok](https://github.com/OskarHeise/wiki-tok)
 Simple webpage that provides an infinite scroll experience for random Wikipedia articles.
 
-#### [text-to-pdf](https://github.com/OskarHeise/text-to-pdf)
-A simple Python script that converts plain text to PDF using Google's AI API.
+#### [cinema-data-analytics](https://github.com/OskarHeise/cinema-data-analytics)  
+A Python project for cleaning, analyzing, and visualizing movie data, including Oscar awards and Rotten Tomatoes reviews, using Jupyter notebooks.
+
+#### [cinearchive-webapp](https://github.com/OskarHeise/cinearchive-webapp)  
+A full-stack web application to browse, review, and discuss movies with user authentication, chat, and Oscar data visualization. Built with Node.js, Java Spring Boot, MongoDB, and PostgreSQL.
 
 #### [chef-shifts-management-app](https://github.com/OskarHeise/chef-shifts-management-app)
 Project for managing kitchen tasks and shifts, including design, business logic, and validation tests.
